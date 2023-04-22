@@ -28,7 +28,7 @@ You can find me on Github at [KritiShrestha](https://github.com/KritiShrestha)
 Feel free to reach me out at shrkriti07@gmail.com if you have any additional questions
 
 ## Videolink
-Here is the walkthrough video 
+Here is the walkthrough video - https://user-images.githubusercontent.com/119089669/233808524-648f4202-dad6-4be5-bddc-3dbc5ee88c2f.webm
 [employeetracker.webm](https://user-images.githubusercontent.com/119089669/233808524-648f4202-dad6-4be5-bddc-3dbc5ee88c2f.webm)
 
 
